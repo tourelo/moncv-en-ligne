@@ -1,0 +1,37 @@
+/* body {
+    background-color: cadetblue;
+} */
+
+.contenu {
+    width: 500px;
+    margin: 0% auto;
+    /* background-color: lightblue; */
+}
+.details{
+    /* background-color: lightsalmon; */
+    height: 150px;
+}
+div .details img{
+    float: left;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.liste-details {
+    /* background-color: lightcyan; */
+    list-style-type: none;
+    float: left;
+    margin-top: 25px;
+}
+h1, h2{
+    text-align: center;
+}
+p{
+    margin: 0px;
+}
+.cv-section {
+/* background-color: blueviolet; */
+}
+hr{
+    border-color: lightblue;
+}
